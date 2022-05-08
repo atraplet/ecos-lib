@@ -35,7 +35,7 @@ and no licensing restrictions apply.
 
         ---------------------------------------------------
         
-Further copyrights are
+Further code is
 
 Copyright (C) Han Wang, Stanford University [hanwang2@stanford.edu]
 (branch and bound module),
@@ -46,5 +46,5 @@ Copyright (C) 2014 Eric Chu (equilibration module),
 Copyright (C) Santiago Akle, Stanford University [akle@stanford.edu]
 (exponential cone module),
 
-all distributed under the GPL version 3. See the file LICENSE for the 
-exact conditions.
+and is distributed under the GPL version 3. See the file LICENSE for 
+the exact conditions.
