@@ -44,4 +44,7 @@ Copyright (C) Pascal Lüscher, student of FHNW [luescherpascal@gmail.com]
 Copyright (C) Michael Grant [mcg@cvxr.com] (signal handling),
 Copyright (C) 2014 Eric Chu (equilibration module),
 Copyright (C) Santiago Akle, Stanford University [akle@stanford.edu]
-(exponental cone module)
+(exponential cone module),
+
+all distributed under the GPL version 3. See the file LICENSE for the 
+exact conditions.
